@@ -1,0 +1,29 @@
+---
+title: "Git & GitHub Intro (Fall 2022)"
+---
+
+Git is a tool to help track changes to your code. GitHub is a Git-aware online repository that facilitates code sharing and collaboration. Git and GitHub are widely used among software developers, but more and more researchers have also picked up the tools for organizing and collaborating on research assets. This workshop is designed to get researchers up and going with Git & GitHub.
+
+The workshop will cover the following:
+
+* What's Git & GitHub and why should you use them?
+* Simple Git & GitHub workflows using GitHub Desktop
+
+------------------------------------------------------------------------
+
+* [Workshop Slides](git_intro.pdf)
+* Resources (GitHub Desktop)
+    + [YouTube Tutorial](https://www.youtube.com/watch?v=8Dd7KRpKeaE&t=2s) by Coder Coder (22mins; great review for today's workshop)
+    + GitHub Desktop [Official Document](https://docs.github.com/en/desktop)
+* Resources (Git Command Line)
+    + [Version Control with Git](http://swcarpentry.github.io/git-novice/) by Software Carpentry
+    + [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-the-basics) by Kevin Skoglund at LinkedIn Learning
+        - Faculty and staff login from [here](https://ulearn.utoronto.ca/linkedin/) for UofT free access
+        - Toronto Public Library free access [here](https://www.torontopubliclibrary.ca/detail.jsp?R=EDB0187) for everyone with a library card
+    + [Getting Started Tutorials](https://www.atlassian.com/git/tutorials/setting-up-a-repository) from Bitbucket Atlassian
+    + [Git command cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) from GitHub
+    + The [Pro Git](https://git-scm.com/book/en/v2) book by Scott Chacon and Ben Straub
+
+------------------------------------------------------------------------
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
