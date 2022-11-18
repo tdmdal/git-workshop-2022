@@ -11,7 +11,9 @@ The workshop will cover the following:
 
 ------------------------------------------------------------------------
 
-* [Workshop Slides](git_intro.pdf)
+* Slides
+    + Ryan's motivation [slides](GitSlides.pdf)
+    + [Workshop Slides](git_intro.pdf)
 * Resources (GitHub Desktop)
     + [YouTube Tutorial](https://www.youtube.com/watch?v=8Dd7KRpKeaE&t=2s) by Coder Coder (22mins; great review for today's workshop)
     + GitHub Desktop [Official Document](https://docs.github.com/en/desktop)
